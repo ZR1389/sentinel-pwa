@@ -6,16 +6,16 @@
   "background_color": "#f3f4f6",
   "theme_color": "#ed0000",
   "description": "Security AI by Zika Risk",
-  "icons": [
-    {
-      "src": "/icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+"icons": [
+  {
+    "src": "https://cdn.jsdelivr.net/gh/ZR1389/sentinel-pwa@main/icons/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "https://cdn.jsdelivr.net/gh/ZR1389/sentinel-pwa@main/icons/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
 }
