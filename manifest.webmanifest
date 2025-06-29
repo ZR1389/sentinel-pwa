@@ -1,7 +1,7 @@
 {
   "name": "Sentinel AI",
   "short_name": "SentinelAI",
-  "start_url": "/sentinel-pwa/",
+  "start_url": "https://zikarisk.com",
   "display": "standalone",
   "background_color": "#f3f4f6",
   "theme_color": "#ed0000",
